@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/algos/algos.iml" filepath="$PROJECT_DIR$/algos/algos.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa.iml" filepath="$PROJECT_DIR$/dsa.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedlists/linkedlists.iml" filepath="$PROJECT_DIR$/linkedlists/linkedlists.iml" />
     </modules>
